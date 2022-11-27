@@ -20,6 +20,7 @@
 6. The distance between two cells is measured from the center of one cell to the center of the other.
 
 # Example Netlist:
+```
 24 16 4 8
 3 0 10 17 
 9 1 15 7 8 12 22 9 6 23 
@@ -37,6 +38,7 @@
 2 23 19 
 5 10 15 8 22 6 
 5 17 7 12 9 23 
+```
 
 # Cooling Schedule:
 . Initial Temperature = 500 x Initial Cost
