@@ -41,6 +41,7 @@
 ```
 
 # Cooling Schedule:
+```
 . Initial Temperature = 500 x Initial Cost
 • Final Temperature = 5x10-6 x (Initial Cost) / (Number of Nets)
 • Next Temperature = 0.95 x Current Temperature
